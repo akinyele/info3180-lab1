@@ -8,3 +8,15 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+
+
+h1 {
+  color:red;
+  font-family: inherit;
+}
+
+p {
+  color: green;
+  font-family: inherit;
+  
+}
